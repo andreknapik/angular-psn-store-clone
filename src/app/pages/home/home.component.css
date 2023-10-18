@@ -8,3 +8,12 @@
 	align-items: baseline;
 	flex-wrap: wrap;
 }
+
+.myCarousel {
+	width: 100%;
+	height: 100%;
+}
+
+.navbar {
+	margin-left: 20px;
+}
